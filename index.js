@@ -37636,7 +37636,7 @@ const oM = [
         "https://c4.wallpaperflare.com/wallpaper/491/484/839/pacman-the-dark-knight-crossover-pac-man-ghost-wallpaper-preview.jpg",
       tags: ["javascript", "C", "html", "css"],
       liveview:
-        "https://drive.google.com/drive/folders/1S_1g8PygjRTcOFsg2mKqBqLmPBMF0zW5?usp=drive_link",
+        "https://photos.google.com/share/AF1QipO1ENaBvV9p0Timk7IfXhdnO6GreQw0XCrU923CN-O2uif25FytE1Viux72u_5Lxg?key=QW9kMGg3S3RxM0Zqd0xRcHFYdjlvMlE1M3hnd1JR",
       github: "https://github.com/davidhckh/pokedex",
       alt: "pokedex design detailed design portfolio project",
     },
@@ -37661,7 +37661,7 @@ const oM = [
       image: "https://i.ytimg.com/vi/4cF7Sl7FazE/maxresdefault.jpg",
       tags: ["Unity", "Blender", "VS"],
       liveview:
-        "https://drive.google.com/drive/folders/1S_1g8PygjRTcOFsg2mKqBqLmPBMF0zW5?usp=drive_link",
+        "https://photos.google.com/share/AF1QipN9WfSAAVHs4i3RFPWBq-fQkPGgtUw5chHhQa-T3sJ2EwDZOL-9GrlZao2IH4XLxw?key=dE8xNTJmZVBnQmxtRnVGamJIOE5VTWJuTjBraVlR",
       github: "https://github.com/davidhckh/sharkie-game",
       alt: "javascript based jump-and-run game portfolio project",
     },
